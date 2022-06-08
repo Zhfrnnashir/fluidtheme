@@ -111,6 +111,11 @@ li{
     line-height: 55px;
     margin-bottom: 40px;
 }
+.sectionOne .image{
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+}
 .sectionOne img{
     width: 100%;
 }
