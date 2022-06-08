@@ -105,6 +105,11 @@ li{
 .main{
     margin-top: 115px;
 }
+.mainImage{
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+}
 .main img{
     width: 100%;
 }
