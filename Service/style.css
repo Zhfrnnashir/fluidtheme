@@ -147,6 +147,13 @@ li{
     width: 430px;
     overflow: hidden;
 }
+.serviceOne .service_image img,
+.serviceTwo .service_image img,
+.serviceThree .service_image img, 
+.serviceFour .service_image img{
+    height: 450px;
+    width: 450px;
+}
 .serviceOne .service_text,
 .serviceTwo .service_text,
 .serviceThree .service_text, 
