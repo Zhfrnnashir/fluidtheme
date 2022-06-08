@@ -138,6 +138,11 @@ li{
 .sectionThree img{
     width: 100%;
 }
+.sectionThree .image{
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+}
 .sectionFour{
     margin-top: 190px;
 }
