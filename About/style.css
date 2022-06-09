@@ -134,6 +134,11 @@ li{
     margin-top: 175px;
     margin-bottom: 115px;
 }
+.sectionThree .imagesecthree{
+    overflow: hidden;
+    width: 46%;
+    height: 400px;
+}
 .sectionThree img{ 
     height: 500px;
     width: 46%;
